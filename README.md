@@ -19,6 +19,11 @@
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a9dc3a29-3ce8-4371-8691-37cdecb5ebc1" />
  </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theselegadev/theselegadev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theselegadev/theselegadev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theselegadev/theselegadev/output/github-contribution-grid-snake.svg">
+</picture>
 
  
 
